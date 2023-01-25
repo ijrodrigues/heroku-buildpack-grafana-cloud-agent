@@ -17,3 +17,6 @@ else
   echo $CONFIG_FILE_PATH
   exit 1
 fi
+
+echo "PORT d:"
+echo $PORT

@@ -41,3 +41,6 @@ cp $BUILD_DIR/config/grafana-agent.yml $BUILD_DIR/grafana-agent.yml
 
 # Debugging
 cat $BUILD_DIR/grafana-agent.yml
+
+echo "PORT c:"
+echo $PORT
